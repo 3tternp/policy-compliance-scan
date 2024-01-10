@@ -20,7 +20,7 @@
     "@actions/artifact": "^0.3.2",
     "@actions/core": "^1.2.6",
     "@actions/exec": "^1.0.1",
-    "@actions/io": "^1.0.1",
+    "@actions/io": "^1.1.3",
     "table": "5.4.6",
     "typed-rest-client": "^1.5.0",
     "uuid": "8.1.0"
