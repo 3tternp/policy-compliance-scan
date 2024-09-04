@@ -17,7 +17,7 @@
     "typescript": "^3.9.5"
   },
   "dependencies": {
-    "@actions/artifact": "^0.3.2",
+    "@actions/artifact": "^2.1.7",
     "@actions/core": "^1.2.6",
     "@actions/exec": "^1.0.1",
     "@actions/io": "^1.0.1",
