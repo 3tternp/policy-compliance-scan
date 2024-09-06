@@ -17,12 +17,12 @@
     "typescript": "^3.9.5"
   },
   "dependencies": {
-    "@actions/artifact": "^0.3.2",
+    "@actions/artifact": "^1.1.1",
     "@actions/core": "^1.2.6",
     "@actions/exec": "^1.0.1",
     "@actions/io": "^1.0.1",
-    "table": "5.4.6",
-    "typed-rest-client": "^1.5.0",
+    "table": "6.7.2",
+    "typed-rest-client": "^2.0.0",
     "uuid": "8.1.0"
   }
 }
